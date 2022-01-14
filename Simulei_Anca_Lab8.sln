@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulei_Anca_Lab8", "Simulei_Anca_Lab8.csproj", "{7BB96C73-3CF5-4A00-8582-2C0B0F7D5AB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB96C73-3CF5-4A00-8582-2C0B0F7D5AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB96C73-3CF5-4A00-8582-2C0B0F7D5AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB96C73-3CF5-4A00-8582-2C0B0F7D5AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB96C73-3CF5-4A00-8582-2C0B0F7D5AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118743F5-9D5B-43EE-BE1D-FFE51B9E6A12}
+	EndGlobalSection
+EndGlobal
